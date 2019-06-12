@@ -20,7 +20,7 @@
 | Automated tests                       | Pruebas automatizadas                                                        | Proves automatitzades                                                  |
 | Automation                            | Automatización                                                               | Automatització                                                         |
 | Backlog                               | Backlog / Lista de tareas                                                    | Backlog / Llista de tasques                                            |
-| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Erronea                                            |
+| Bad path                              | Camino Erróneo / Prueba Errónea                                              | Camí Erroni / Prova Errònia                                            |
 | Binary file                           | Fichero binario                                                              | Fitxer binari                                                          |
 | Blameless                             | Libre de culpa / sin culpa                                                   | Lliure de culpa / sense culpa                                          |
 | Blameless post mortem                 | Blameless post mortem                                                        | Blameless post mortem                                                  |
@@ -31,7 +31,7 @@
 | Build                                 | Build                                                                        | Build                                                                  |
 | Build-time                            | Build-time                                                                   | Build-time                                                             |
 | Burn-down chart                       | Diagrama de quemado / Gráfico de trabajo pendiente                           | Diagrama de cremat / Gràfic de treball pendent                         |
-| Business value                        | Valor para el negocio                                                        | Valor per el negoci                                                    |
+| Business value                        | Valor para el negocio                                                        | Valor pel negoci                                                    |
 | Canary release pattern                | Patrón de Despliegue con canario                                             | Patró de desplegament amb canari                                       |
 | Canary releasing                      | Despliegue con canario                                                       | Desplegament amb canari                                                |
 | Capacity testing                      | Pruebas de Capacidad                                                         | Proves de capacitat                                                    |
