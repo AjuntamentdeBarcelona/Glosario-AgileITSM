@@ -81,7 +81,7 @@
 | Epic                                  | Épica                                                                        | Épica                                                                  |
 | Escaped defect                        | Defecto escapado                                                             | Defect escapat                                                         |
 | Estimation                            | Estimación                                                                   | Estimació                                                              |
-| Event Management                      | Gestión de eventos                                                           | Gestió de events                                                       |
+| Event Management                      | Gestión de eventos                                                           | Gestió d'esdeveniments                                                       |
 | Exploratory testing                   | Pruebas exploratorias / Testing de exploración                               | Proves exploratòries / Testing de exploració                           |
 | Evil User Story                       | Historia Maliciosa / Historia de Usuario Malicioso                           | Història Maliciosa / Història d'Usuari Maliciós                        |
 | Extreme programming (XP)              | Programación extrema (XP)                                                    | Programació extrema (XP)                                               |
